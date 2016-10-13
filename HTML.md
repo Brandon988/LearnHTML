@@ -1,9 +1,9 @@
 ###一、标签
 ####标签（推荐）使用小写
-标题：h1~h6 `<h1></h1>` 
-段落：p `<p></p>`
-链接：a `<a href="xxxx"></a>`
-图像：img `<img src="xxx" width="xx" height="xx">`
+标题：h1~h6 `<h1></h1>`<br />
+段落：p `<p></p>`<br />
+链接：a `<a href="xxxx"></a>`<br />
+图像：img `<img src="xxx" width="xx" height="xx">`<br />
 换行：br `<br />`
 ###二、属性
 ####属性（推荐）使用小写
